@@ -7,11 +7,10 @@ Hi there 👋, I'm Prashanth B K M
 💬 Ask me about Web Development, Coding Resources, and Placement Preparation  
 🎯 Fun fact: I enjoy learning new skills, experimenting with code, and sharing my journey with others!  
 
-
 ## 🌐 Socials:  
-[![Instagram](https://img.shields.io/badge/Instagram-@heart__picker_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heart_picker_/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashanth%20B%20K%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-b-k-m-914773211)  
-[![Email](https://img.shields.io/badge/Email-prashanthbkm72@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashanthbkm72@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-@rock_prashanth_09-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rock_prashanth_09/) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-b-k-m-914773211) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashanthbkm72@gmail.com)
+
+ 
 
 ## 💻 Tech Stack:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -27,6 +26,7 @@ Hi there 👋, I'm Prashanth B K M
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashanthbkm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prashanthbkm&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanthbkm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prashanthbkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prashanthbkm&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanthbkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
