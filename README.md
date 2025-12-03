@@ -25,8 +25,12 @@ Hi there 👋, I'm Prashanth B K M
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashanthbkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prashanthbkm&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanthbkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanthbkm&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prashanthbkm&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanthbkm&layout=compact&theme=dark&hide_border=false)
+
 
