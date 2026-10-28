@@ -33,13 +33,12 @@ Hi there 👋, I'm **Prashanth B K M**
 
 ## 📊 GitHub Stats  
 
-### 🔥 Overall Stats  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashanthbkm&show_icons=true&theme=dark&hide_border=false" />
+## 📊 GitHub Stats
 
-### 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prashanthbkm&theme=dark&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashanthbkm&theme=github_dark" alt="Profile details" />
 
-### 🔥 Most Used Languages  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prashanthbkm&layout=compact&theme=dark&hide_border=false&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashanthbkm&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Prashanthbkm&theme=dark&hide_border=false" alt="GitHub streak" />
 
 ---
