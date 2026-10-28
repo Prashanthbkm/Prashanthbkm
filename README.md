@@ -30,9 +30,6 @@ Hi there 👋, I'm **Prashanth B K M**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-
 ## 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashanthbkm&theme=github_dark" alt="Profile details" />
